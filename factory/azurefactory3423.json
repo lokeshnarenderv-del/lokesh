@@ -1,0 +1,15 @@
+{
+	"name": "azurefactory3423",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2cfe1a73-bd09-4b1f-8f52-5a813e5a100c",
+		"tenantId": "d48430ed-5e88-4357-98cf-4de27c64ad34"
+	}
+}
